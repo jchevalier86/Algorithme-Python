@@ -1,1 +1,1 @@
-Cours Algorithme & Python IFPA
+Cours et exercices pratique Algorithme & Python IFPA
